@@ -1,4 +1,4 @@
-# Carrier Integration Service
+# Carrier Integration Service – UPS Implementation
 
 Production-grade TypeScript backend service that integrates with UPS Rating APIs using a clean architecture and adapter pattern.  
 The implementation is designed to hide carrier-specific details and support future carrier and operation expansion.
